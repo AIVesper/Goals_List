@@ -5,26 +5,26 @@ Update from time to time...
 
 ## Reading list
 
-- [x] [小王子的領悟]
-- [ ] [文化苦旅]
-- [ ] [人間失格]
-- [ ] [論人類不平等的起源和基礎]
-- [ ] [奠基者：獨立戰爭那一代]
-- [ ] [我們]
-- [x] [一九八四]
-- [ ] [動物莊園]
-- [ ] [自由人的平等政治]
-- [ ] [暴政：掌控關鍵年代的獨裁風潮，洞悉時代之惡的20堂課]
-- [ ] [自由四論]
-- [ ] [A Theory of Justice]
-- [ ] [Two Concepts of Liberty]
-- [ ] [Political Philosophy]
-- [ ] [An Introduction to Political Philosophy]
-- [ ] [政治的道德]
-- [ ] [正義論]
-- [ ] [論自由]
-- [ ] [全世界受苦的人]
-- [ ] [The Algorithm Design Manual]
+- [x] 小王子的領悟
+- [ ] 文化苦旅
+- [ ] 人間失格
+- [ ] 論人類不平等的起源和基礎
+- [ ] 奠基者：獨立戰爭那一代
+- [ ] 我們
+- [x] 一九八四
+- [ ] 動物莊園
+- [ ] 自由人的平等政治
+- [ ] 暴政：掌控關鍵年代的獨裁風潮，洞悉時代之惡的20堂課
+- [ ] 自由四論
+- [ ] A Theory of Justice
+- [ ] Two Concepts of Liberty
+- [ ] Political Philosophy
+- [ ] An Introduction to Political Philosophy
+- [ ] 政治的道德
+- [ ] 正義論
+- [ ] 論自由
+- [ ] 全世界受苦的人
+- [ ] The Algorithm Design Manual
 
 ## Todo list
 
