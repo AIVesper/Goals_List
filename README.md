@@ -24,7 +24,11 @@ Update from time to time...
 - [ ] 正義論
 - [ ] 論自由
 - [ ] 全世界受苦的人
-- [ ] The Algorithm Design Manual
+- [ ] 再見楊德昌
+- [ ] 楊牧詩集
+- [ ] 楊牧詩集
+- [ ] 在路上
+- [ ] 裸體午餐
 
 ## Todo list
 
@@ -43,8 +47,8 @@ Update from time to time...
 - [ ] JLPT N1 passed
 - [ ] IELTS score above 7
 - [ ] Save 100,000 - 300,000 for go abroad
-- [ ] Go to Japan
-- [ ] Naturalization Japan
+- [ ] ~~Go to Japan~~
+- [ ] ~~Naturalization Japan~~
 - [ ] Travel around Taiwan
 - [ ] Travel to Beijing
 - [ ] Travel to Shanghai
