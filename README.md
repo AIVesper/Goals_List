@@ -32,8 +32,8 @@ Update from time to time...
 ## Todo list
 
 - [ ] Total GPA over 3.5
-- [ ] Learn Python
-- [ ] Learn Node.js
+- [x] Learn Python
+- [ ] Learn Swift
 - [ ] Learn Rust
 - [ ] Front-end development
 - [ ] Back-end development
@@ -44,14 +44,12 @@ Update from time to time...
 - [ ] Join open source projects
 - [ ] JLPT N2 passed
 - [ ] JLPT N1 passed
-- [ ] IELTS score above 7
-- [ ] Save 100,000 - 300,000 for go abroad
-- [ ] ~~Go to Japan~~
-- [ ] ~~Naturalization Japan~~
+- [ ] Go to Japan
+- [ ] Naturalization Japan
 - [ ] Travel around Taiwan
 - [ ] Travel to Beijing
-- [ ] Travel to Shanghai
-- [ ] Bungee jumping(Macau)
+- [x] Travel to Shanghai
+- [ ] Bungee jumping (Macau)
 - [ ] Travel to Europe
 
 ## Online courses
